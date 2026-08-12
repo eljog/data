@@ -1,7 +1,9 @@
 # data
 
-Store static content such as images used in documentation
+This repository provides a central location for static content, including
+images and other assets referenced by project documentation.
 
 ## Test
 
-This README update verifies the pull request workflow.
+This section was added to verify that README changes can be committed,
+published to a branch, and reviewed through the pull request workflow.
