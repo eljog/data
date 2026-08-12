@@ -1,7 +1,7 @@
 # data
 
-Static images and assets used in documentation.
+This repository stores static images and other assets used in documentation.
 
 ## Test
 
-This change tests the pull request workflow.
+This README update verifies that changes can be reviewed through a pull request.
